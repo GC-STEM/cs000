@@ -5,14 +5,12 @@ on:
     paths:
       - "README.md"
       - "**/README.md"
-      - ".github/RЕADME.md"
       - ".github/ci/check_readme_commands.py"
       - ".github/workflows/readme-commands.yml"
   pull_request:
     paths:
       - "README.md"
       - "**/README.md"
-      - ".github/RЕADME.md"
       - ".github/ci/check_readme_commands.py"
       - ".github/workflows/readme-commands.yml"
   workflow_dispatch:

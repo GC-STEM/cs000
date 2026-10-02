@@ -1,11 +1,3 @@
-<!--
-TEMPLATE SETUP
-
-Replace the placeholder `cs000` with the course code.
-
-Remove this comment after completing the template.
--->
-
 # Support
 
 This file helps you choose the correct GitHub or course support channel.
@@ -17,17 +9,16 @@ The [Course Support page](https://github.com/GC-STEM/cs000/wiki/Course-Support) 
 <!-- omit from toc -->
 ## Table of Contents
 
-* [Support](#support)
-  * [Start Here](#start-here)
-  * [Choose the Correct Support Channel](#choose-the-correct-support-channel)
-  * [Course Repository Wiki](#course-repository-wiki)
-  * [GitHub Discussions](#github-discussions)
-  * [GitHub Issues](#github-issues)
-  * [Information to Include](#information-to-include)
-  * [Protect Your Information](#protect-your-information)
-  * [Response Expectations](#response-expectations)
-  * [Provisional Status](#provisional-status)
-  * [References](#references)
+1. [Start Here](#start-here)
+2. [Choose the Correct Support Channel](#choose-the-correct-support-channel)
+3. [Course Repository Wiki](#course-repository-wiki)
+4. [GitHub Discussions](#github-discussions)
+5. [GitHub Issues](#github-issues)
+6. [Information to Include](#information-to-include)
+7. [Protect Your Information](#protect-your-information)
+8. [Response Expectations](#response-expectations)
+9. [Provisional Status](#provisional-status)
+10. [References](#references)
 
 ---
 

@@ -9,7 +9,18 @@ Do not report security vulnerabilities, exposed credentials, or sensitive inform
 <!-- omit from toc -->
 ## Table of Contents
 
-<!-- Add sections here -->
+1. [Supported Versions](#supported-versions)
+2. [Security Issues Covered by This Policy](#security-issues-covered-by-this-policy)
+3. [Issues Not Covered by This Policy](#issues-not-covered-by-this-policy)
+4. [Reporting a Vulnerability](#reporting-a-vulnerability)
+5. [Information to Include](#information-to-include)
+6. [Handling of Reports](#handling-of-reports)
+7. [Responsible Testing](#responsible-testing)
+8. [Exposed Credentials and Sensitive Information](#exposed-credentials-and-sensitive-information)
+9. [Coordinated Disclosure](#coordinated-disclosure)
+10. [Academic and Institutional Requirements](#academic-and-institutional-requirements)
+11. [Provisional Status](#provisional-status)
+12. [References](#references)
 
 ---
 

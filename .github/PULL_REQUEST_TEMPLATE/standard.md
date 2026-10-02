@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 -->
 ## Summary
 
 <!-- Briefly describe what changed and why. -->

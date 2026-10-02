@@ -4,6 +4,15 @@ We want everyone, including people with disabilities and people who use assistiv
 
 Accessibility is an ongoing part of course quality. We work toward [WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/) where applicable. This is an accessibility goal, not a claim of verified conformance.
 
+<!-- omit from toc -->
+## Table of Contents
+
+1. [Accessibility Practices](#accessibility-practices)
+2. [Reporting an Accessibility Barrier](#reporting-an-accessibility-barrier)
+3. [Contributors](#contributors)
+4. [Known Limitations](#known-limitations)
+5. [Additional Resources](#additional-resources)
+
 ## Accessibility Practices
 
 Course repository content should:

@@ -11,7 +11,17 @@ This Code of Conduct applies to students, faculty, staff, maintainers, contribut
 <!-- omit from toc -->
 ## Table of Contents
 
-<!-- Add sections here -->
+1. [Purpose](#purpose)
+2. [Expected Behavior](#expected-behavior)
+3. [Unacceptable Behavior](#unacceptable-behavior)
+4. [Academic Integrity](#academic-integrity)
+5. [Privacy and Security](#privacy-and-security)
+6. [Scope](#scope)
+7. [Reporting a Concern](#reporting-a-concern)
+8. [Moderation and Enforcement](#moderation-and-enforcement)
+9. [Questions](#questions)
+10. [Provisional Status](#provisional-status)
+11. [References](#references)
 
 ---
 

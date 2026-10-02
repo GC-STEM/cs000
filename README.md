@@ -21,6 +21,8 @@ Complete these one-time setup tasks before the end of Week 1 or before starting 
 3. [**Clone this repository**](https://github.com/GC-STEM/cs000/wiki/Clone-Repo)
 4. [**Open the repo in your IDE**](https://github.com/GC-STEM/cs000/wiki/Open-IDE)
 
+If a setup task does not work as expected, [get help](#-help-and-support) before continuing.
+
 > [!IMPORTANT]
 > Now that you have completed the setup tasks, perform all remaining repository activities in your course IDE, not on GitHub.
 
@@ -28,13 +30,13 @@ Complete these one-time setup tasks before the end of Week 1 or before starting 
 
 ## 🏗️ Repository Activities
 
-If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you completed the Setup Tasks, open a terminal, type the following command, and press **Enter**.
+If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you are using the recommended course IDE, open a terminal, type the following command, and press **Enter**.
 
 ```bash
 code "$HOME/Repos/cs000"
 ```
 
-Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables.
+Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [get help](#-help-and-support) early.
 
 **Table 0.1** - *Repository Activities*
 

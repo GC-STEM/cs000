@@ -1,0 +1,9 @@
+# Default ownership of repository content.
+* @GC-STEM/cs-maintainers
+
+# Administrative configuration.
+/.github/ @GC-STEM/cs-admins
+/.gitattributes @GC-STEM/cs-admins
+/.gitignore @GC-STEM/cs-admins
+/pyproject.toml @GC-STEM/cs-admins
+/requirements.txt @GC-STEM/cs-admins

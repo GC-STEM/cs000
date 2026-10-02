@@ -7,7 +7,8 @@ Welcome to the **CS-000 Code Repository**! To get started:
 
 * Complete the one-time [**setup tasks**](#-setup-tasks) before the end of Week 1.
 * Return here when Brightspace directs you to a [**repository activity**](#️-repository-activities).
-* If you run into problems, [**get help**](#-help-and-support) early.
+* [**Get help**](#-help-and-support) early if you run into problems.
+* [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
 ## 💻 Setup Tasks
 
@@ -42,6 +43,14 @@ You are not in this alone. If you have questions or run into problems, use the s
 
 * [**Student Support**](https://github.com/GC-STEM/cs000/wiki/Student-Support)
 * [**Faculty & Staff Support**](https://github.com/GC-STEM/cs000/wiki/Faculty-Support)
+
+## 📚 Learn More
+
+Want to understand more about what you are doing in this repository, how it works, or why it matters?
+
+* Visit the repo [**Wiki**](https://github.com/GC-STEM/cs000/wiki) for explanations, standards, best practices, and technical guidance.
+
+* Ask a question in [**Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
 
 <!-- Repository Metadata
 ---

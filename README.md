@@ -23,7 +23,7 @@ Complete the following setup tasks in order. Return here after each task.
 
 ## 🏗️ Repository Activities
 
-When your Brightspace course directs you to this code repository, click the matching activity below and follow its instructions.
+When your Brightspace course directs you to the code repository, open your course IDE and click the matching activity below and follow its instructions.
 
 **Table 0.1** - *Repository Activities*
 

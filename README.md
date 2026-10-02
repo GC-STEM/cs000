@@ -5,12 +5,12 @@
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
-* Complete the one-time [**setup tasks**](#-setup-tasks) before the end of Week 1.
+* Complete the one-time [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
 * Return here when Brightspace directs you to a [**repository activity**](#️-repository-activities).
 * If you run into problems, [**get help**](#-help-and-support) early and often.
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
-## 💻 Setup Tasks
+## 💻 1-1 Setup Tasks
 
 Complete the following setup tasks in order. Return here after each task.
 
@@ -23,7 +23,7 @@ Complete the following setup tasks in order. Return here after each task.
 
 ## 🏗️ Repository Activities
 
-When your D2L Brightspace course directs you to this code repository, click the matching activity below and follow its instructions.
+When your Brightspace course directs you to this code repository, click the matching activity below and follow its instructions.
 
 **Table 0.1** - *Repository Activities*
 

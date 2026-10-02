@@ -5,7 +5,7 @@
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
-* Complete the one-time [**setup tasks**](#-help-and-support) before the end of Week 1.
+* Complete the one-time [**setup tasks**](#-setup-tasks) before the end of Week 1.
 * Return here when Brightspace directs you to a [**repository activity**](#️-repository-activities).
 * If you run into problems, [**get help**](#-help-and-support) early.
 

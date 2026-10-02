@@ -10,6 +10,8 @@ Welcome to the **CS-000 Code Repository**! To get started:
 * Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities)
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
+---
+
 ## 💻 1-1 Setup Tasks
 
 Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each task.
@@ -21,6 +23,8 @@ Complete these one-time setup tasks before the end of Week 1 or before starting 
 
 > [!IMPORTANT]
 > Now that you have completed the setup tasks, perform all remaining repository activities in your course IDE, not on GitHub.
+
+---
 
 ## 🏗️ Repository Activities
 
@@ -46,6 +50,8 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 > [!NOTE]
 > Guidelines & Rubric are in Brightspace under Course Menu > Learning Modules > Assignment Information.
 
+---
+
 ## 🆘 Help and Support
 
 You are not in this alone. If you have questions or run into problems, use the support resources below to get help early.
@@ -60,6 +66,8 @@ Want to understand more about what you are doing in this repository, how it work
 * Visit the repo [**Wiki**](https://github.com/GC-STEM/cs000/wiki) for explanations, standards, best practices, and technical guidance.
 
 * Ask a question in [**Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
+
+---
 
 <!-- Repository Metadata
 ---

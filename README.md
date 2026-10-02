@@ -6,36 +6,45 @@
 Welcome to the **CS-000 Code Repository**! To get started:
 
 * Complete the one-time [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
-* Return here when Brightspace directs you to a [**repository activity**](#️-repository-activities).
-* If you run into problems, [**get help**](#-help-and-support) early and often.
+* [**Get help**](#-help-and-support) early and often, if you run into problems.
+* Open repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities)
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
 ## 💻 1-1 Setup Tasks
 
-Complete the following setup tasks in order. Return here after each task.
+Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each task.
 
 1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/GitHub)
 2. [**Set up your course IDE**](https://github.com/GC-STEM/cs000/wiki/Course-IDE)
 3. [**Clone this repository**](https://github.com/GC-STEM/cs000/wiki/Clone-Repo)
+4. [**Open the repo in your IDE**](https://github.com/GC-STEM/cs000/wiki/Open-IDE)
 
 > [!IMPORTANT]
-> 🚨 Complete **Setup Tasks** before the end of Week 1 and before starting Repository Activities.
+> Now that you have completed the setup tasks, perform all remaining repository activities in your course IDE, not on GitHub.
 
 ## 🏗️ Repository Activities
 
-When your Brightspace course directs you to the code repository, open your course IDE and click the matching activity below and follow its instructions.
+If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you completed the Setup Tasks, open a terminal, type the following command, and press **Enter**.
+
+```bash
+code "$HOME/Repos/cs000"
+```
+
+Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables.
 
 **Table 0.1** - *Repository Activities*
 
-| **Week** | **Module** | **Activity** |
-| :------: | ---------- | ------------ |
-| 2 | Two | [2-0 Task Title](./2-0_task_title/2-0_worksheet.md) |
-| 3 | Three | [3-0 Task Title](./3-0_task_title/3-0_worksheet.md) |
-| 4 | Four | [4-0 Task Title](./4-0_task_title/4-0_worksheet.md) |
-| 5 | Five | [5-0 Task Title](./5-0_task_title/5-0_worksheet.md) |
-| 6 | Six | [6-0 Task Title](./6-0_task_title/6-0_worksheet.md) |
-| 7 | Seven | [7-0 Task Title](./7-0_task_title/7-0_worksheet.md) |
-| 8 | Eight | [8-9 Next Steps](./8-9_Next_Steps/8-9_todo.md) |
+| **Week** | **Guidelines & Rubric** | **Repository Activity** | **Templates → Deliverables** |
+| :------: | ----------------------- | ----------------------- | --------------------------- |
+| 2 | Module Two Assignment | [2-3_Assignment](./2-3_Assignment/2-3_worksheet.md) | `name_age.py`, `ide_features.md` |
+| 3 | Module Three Assignment | [3-3_Assignment](./3-3_Assignment/3-3_worksheet.md) | `paycheck_calculator.drawio`, `paycheck_calculator.pseudo` |
+| 4 | Module Four Assignment | [4-3_Assignment](./4-3_Assignment/4-3_worksheet.md) | `hilow_game.pseudo` |
+| 5 | Project One | [5-3_Project_One](./5-3_Project_One/5-3_worksheet.md) | `game_storyboard.md`, `game_map.drawio`, `move.pseudo`, `get_item.pseudo` |
+| 6 | Module Six Milestone | [6-4_Milestone](./6-4_Milestone/6-4_worksheet.md) | `move_between_rooms.py` |
+| 7 | Project Two | [7-3_Project_Two](./7-3_Project_Two/7-3_worksheet.md) | `text_based_game.py` |
+
+> [!NOTE]
+> Guidelines & Rubric are in Brightspace under Course Menu > Learning Modules > Assignment Information.
 
 ## 🆘 Help and Support
 

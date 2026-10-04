@@ -4,7 +4,7 @@ Inputs:
 - <List the data the program receives (type and source)>.
 
 Processing:
-- <Describe the main data transformations or decisions (1–2 sentences)>.
+- <Describe the main data transformations or decisions (1-2 sentences)>.
 
 Outputs:
 - <List the results produced and how they are displayed or stored>.

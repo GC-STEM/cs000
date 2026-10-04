@@ -22,9 +22,9 @@
 
 ---
 
-## Software Development Life Cycle 
+## Software Development Life Cycle
 
-SME TODO: Add brief summary of the SDLC. 
+SME TODO: Add brief summary of the SDLC.
 
 1. **Analyze** the [problem and requirements](./analysis/requirements.md) to understand what needs to be done. Record your understanding of the problem and requirements in your [Software Development Worksheet](./worksheet.md).
 
@@ -34,7 +34,7 @@ SME TODO: Add brief summary of the SDLC.
 
 4. **Test** the program to ensure it works correctly and meets the requirements. Debug any issues that arise during testing. Test again until all issues are resolved.
 
-5. **Submit** task deliverables for grading and feedback in [D2L Brightspace](https://learn.snhu.edu/d2l/home). 
+5. **Submit** task deliverables for grading and feedback in [D2L Brightspace](https://learn.snhu.edu/d2l/home).
 
 > [!IMPORTANT]
 > **Windows users:** Run `bash` command blocks in a **Git Bash** terminal, not PowerShell or Command Prompt.

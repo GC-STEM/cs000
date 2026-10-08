@@ -63,3 +63,7 @@ Automated accessibility tools can help identify some problems, but they do not r
 * [W3C Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
 * [W3C Images Tutorial: Alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 * [Open Source Guide: Accessibility Best Practices for Your Project](https://opensource.guide/accessibility-best-practices-for-your-project/)
+* [GitHub Docs: Adding an Accessibility Page to Your Repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-an-accessibility-page-to-your-repository)
+* [GitHub Accessibility Documentation](https://accessibility.github.com/documentation)
+* [GitHub Docs: Managing Accessibility Settings](https://docs.github.com/en/account-and-profile/how-tos/account-settings/managing-accessibility-settings)
+* [GitHub Accessibility: Using GitHub Repositories with a Screen Reader](https://accessibility.github.com/documentation/guide/repos/)

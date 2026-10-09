@@ -74,9 +74,9 @@ You are not in this alone. If you have questions or run into problems, return to
 
 ---
 
-[![Open in VS Code for the Web](https://code.visualstudio.com/assets/branding/button-open-in-vs-code-web.png)](https://github.dev/GC-STEM/cs000)
+<!--[![Open in VS Code for the Web](https://code.visualstudio.com/assets/branding/button-open-in-vs-code-web.png)](https://github.dev/GC-STEM/cs000)-->
 
-[![Open in VS Code for the Web](https://github.com/GC-STEM/cs000/blob/main/.github/assets/open-in-vscode-web-dark.svg)](https://github.dev/GC-STEM/cs000)
+[![Open in VS Code for the Web](https://github.com/GC-STEM/cs000/blob/main/.github/assets/open-in-vscode-web.svg)](https://github.dev/GC-STEM/cs000)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GC-STEM/cs000?quickstart=1)
 

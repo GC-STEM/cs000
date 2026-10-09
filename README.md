@@ -66,9 +66,9 @@ Want to understand more about what you are doing in this repository, how it work
 
 You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select a support option from the main menu.
 
-* **Academic Support** for questions about course concepts and activities.
+* [**Academic Support**](https://myapps.microsoft.com/signin/00b02d3d-d1f9-40dc-b7e0-a4c4f512c5b4?tenantId=2baef15b-b8de-423f-9d8a-46f3686d8848) for questions about course concepts and activities.
 
-* **IT Service Desk** for technical support with course technologies.
+* [**IT Service Desk**](https://snhu.service-now.com/sp) for technical support with course technologies.
 
 * **More ▼ Online Student Services** for additional support options.
 

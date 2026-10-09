@@ -64,7 +64,7 @@ Want to understand more about what you are doing in this repository, how it work
 
 ## 🆘 Help and Support
 
-You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select from a  support option from the main menu.
+You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select a support option from the main menu.
 
 * **Academic Support** for questions about course concepts and activities.
 
@@ -73,6 +73,10 @@ You are not in this alone. If you have questions or run into problems, return to
 * **More ▼ Online Student Services** for additional support options.
 
 ---
+
+[![Open in VS Code for the Web](https://code.visualstudio.com/assets/branding/button-open-in-vs-code-web.png)](https://github.dev/GC-STEM/cs000)
+
+[![Open in VS Code for the Web](https://github.com/GC-STEM/cs000/blob/main/.github/assets/open-in-vscode-web-dark.svg)](https://github.dev/GC-STEM/cs000)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GC-STEM/cs000?quickstart=1)
 

@@ -50,16 +50,9 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 | 7 | Project Two | [7-3_Project_Two](./7-3_Project_Two/7-3_worksheet.md) | `text_based_game.py` |
 
 > [!NOTE]
-> Guidelines & Rubric are in Brightspace under Course Menu > Learning Modules > Assignment Information.
+> *Guidelines & Rubric* are in [**Brightspace**](https://learn.snhu.edu/d2l/home) under Course Menu > Learning Modules > Assignment Information.
 
 ---
-
-## 🆘 Help and Support
-
-You are not in this alone. If you have questions or run into problems, use the support resources below to get help early.
-
-* [**Student Support**](https://github.com/GC-STEM/cs000/wiki/Student-Support)
-* [**Faculty & Staff Support**](https://github.com/GC-STEM/cs000/wiki/Faculty-Support)
 
 ## 📚 Learn More
 
@@ -69,7 +62,19 @@ Want to understand more about what you are doing in this repository, how it work
 
 * Ask a question in [**Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
 
+## 🆘 Help and Support
+
+You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select from a  support option from the main menu.
+
+* **Academic Support** for questions about course concepts and activities.
+
+* **IT Service Desk** for technical support with course technologies.
+
+* **More ▼ Online Student Services** for additional support options.
+
 ---
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GC-STEM/cs000?quickstart=1)
 
 <!-- Repository Metadata
 ---

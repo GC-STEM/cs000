@@ -5,7 +5,7 @@
 ---
 
 > [!CAUTION]
-> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://github.com/GC-STEM/atlas/wiki/Unfork-Repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks).
+> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://github.com/GC-STEM/cs000/wiki/Unfork-Repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks).
 
 ---
 

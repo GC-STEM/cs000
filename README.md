@@ -5,11 +5,11 @@
 ---
 
 > [!CAUTION]
-> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://docs.github.com/en/repositories/creating-and-managing-repositories/unfork-a-repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks).
+> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://github.com/GC-STEM/atlas/wiki/Unfork-Repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks).
 
 ---
 
-Welcome to the **CS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
+Welcome to the **CS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows.}}.
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -21,7 +21,9 @@ Welcome to the **CS-000 Code Repository**! This repository supplements your [**B
 
 ## Module 1: Setup Tasks
 
-Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) before the end of Week 1 or before starting on other repository activities.
+- **Students**. Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) before starting on other repository activities, ideally before the end of Week 1.
+
+- **Faculty**. Do NOT complete the student setup tasks. Follow the guidance in the [**Faculty README**](.faculty/README.md) instead.
 
 ## Modules 2-4: Assignments
 

@@ -1,15 +1,15 @@
 <!-- To see this file in a clean, formatted view, select ▼ in the upper-right corner of the editor pane, then select "Markdown Preview".-->
 
-# CS-000 Code Repository
+# CRS-000 Code Repository
 
 ---
 
 > [!CAUTION]
-> Do **NOT** fork course repositories! Forks are public and cannot be made private until they are disconnected from the original repository. If you already did, don't worry. The [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) will show you how to unfork it and continue setting up your private course repository.
+> Do **NOT** fork course repositories! Forks are public and cannot be made private until they are disconnected from the original repository. If you already did, don't worry. The [**1-1 Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) will show you how to unfork it and continue setting up your private course repository.
 
 ---
 
-Welcome to the **CS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows.}}.
+Welcome to the **CRS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows.}}.
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -21,7 +21,7 @@ Welcome to the **CS-000 Code Repository**! This repository supplements your [**B
 
 ## Module 1: Setup Tasks
 
-- **Students**. Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) before starting on other repository activities, ideally before the end of Week 1.
+- **Students**. Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) before starting on other repository activities, ideally before the end of Week 1.
 
 - **Faculty**. Do NOT complete the student setup tasks. Follow the guidance in the [**Faculty README**](.faculty/README.md) instead.
 
@@ -59,12 +59,12 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 
 ## Module 8: Next Steps
 
-Complete the [**Next Steps**](https://github.com/GC-STEM/cs000/wiki/8%E2%80%909-Next-Steps) to continue your progress in the course.
+Complete the [**Next Steps**](https://github.com/GC-STEM/crs000/wiki/8%E2%80%909-Next-Steps) to continue your progress in the course.
 
 ## Help and Support
 
-- [**Support for Students**](https://github.com/GC-STEM/cs000/wiki/Support-for-Students)
-- [**Support for Faculty**](https://github.com/GC-STEM/cs000-faculty/wiki/Support-for-Faculty)
+- [**Support for Students**](https://github.com/GC-STEM/crs000/wiki/Support-for-Students)
+- [**Support for Faculty**](https://github.com/GC-STEM/crs000-faculty/wiki/Support-for-Faculty)
 
 <!-- Repository Metadata
 ---

@@ -1,13 +1,13 @@
 <!-- To see this file in a clean, formatted view, select ▼ in the upper-right corner of the editor pane, then select "Markdown Preview".-->
 
-# CS-000 Faculty Repository
+# CRS-000 Faculty Repository
 
 > [!WARNING]
 > This page is under construction. Please check back later for faculty-specific guidance and resources.
 
-[CS-000 Faculty Repository](https://github.com/GC-STEM/cs000-faculty)
+[CRS-000 Faculty Repository](https://github.com/GC-STEM/crs000-faculty)
 
-Welcome to the **CS-000 Faculty Repository**! {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
+Welcome to the **CRS-000 Faculty Repository**! {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -15,5 +15,5 @@ Welcome to the **CS-000 Faculty Repository**! {{AI TODO: replace with the top 2-
 
 ## Help and Support
 
-- [**Support for Students**](https://github.com/GC-STEM/cs000/wiki/Support-for-Students)
-- [**Support for Faculty**](https://github.com/GC-STEM/cs000-faculty/wiki/Support-for-Faculty)
+- [**Support for Students**](https://github.com/GC-STEM/crs000/wiki/Support-for-Students)
+- [**Support for Faculty**](https://github.com/GC-STEM/crs000-faculty/wiki/Support-for-Faculty)

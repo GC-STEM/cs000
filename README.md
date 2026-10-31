@@ -63,6 +63,8 @@ Complete the [**Next Steps**](https://github.com/GC-STEM/crs000/wiki/8%E2%80%909
 
 ## Help and Support
 
+- [**AI use and Course Mentor**](AI-USE.md)
+
 - [**Support for Students**](https://github.com/GC-STEM/crs000/wiki/Support-for-Students)
 - [**Support for Faculty**](https://github.com/GC-STEM/crs000-faculty/wiki/Support-for-Faculty)
 
